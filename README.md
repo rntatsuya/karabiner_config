@@ -1,0 +1,2 @@
+- [x] Switch to English/Japanese input source when pressing the left/right command buttons by itself
+- [x] Change function keys to standard mode when on VSCode
